@@ -1,5 +1,5 @@
 		   A PROJECT REPORT ON
-		“MYANMAR LANGUAGE TOOLS”
+# “MYANMAR LANGUAGE TOOLS”
 			FOR
 		Geo Mandalar Co,..ltd
 		SUBMITTED IN PARTIAL
@@ -7,15 +7,15 @@
 			PROJECT
 		UNDER THE GUIDANCE OF
 			Director
-		       U RAVI CHHABRA
+		      U RAVI CHHABRA
 			Supervisor
-			Dr.TIN EI KYAW
+		    Dr.TIN EI KYAW
 SUBMITTED BY
 
 1. Ma Nyo Nyo Htwe
 
 2. Ma Mar Lar
-
+ 
 3. Ma Sandar Soe
 
 4. Ma May Mon Thu
@@ -24,12 +24,11 @@ SUBMITTED BY
 
 6. Ma May Thu Tun
 
-		University	of	Computer	Studies
-			(Mandalay)
+# University of	Computer Studies (Mandalay)
 
-			Date	4.9.2018
+# 	Date	4.9.2018
 
-Contents
+# Contents
 
 Abstract
 
@@ -37,12 +36,13 @@ Acknowledgement
 
 Declaration
 
-List of figures
+List of figures	
 
 List of Tables 
 
 
-	CHAPTER 1	INTRODUCTION		
+	CHAPTER 1	INTRODUCTION
+
 	1.1		Introduction
 	1.2		Background the system
 			1.2.1	Git
@@ -70,7 +70,7 @@ List of Tables
 	References
 
 			
-														Abstract
+# 					Abstract
 
 	The project can be presented about a converter to translate some Myanmar language fonts. Myanmar Language tool’s goal is to develop a useful converter for translating texts between Myanmar languages in real time with high quality. Myanmar Language converter is a type of link that upload on website. In coding, we had used Python language to convert Zawgyi, Unicode and WinMyanmar vice visa.
 	To form our converter design, we had taken some templates such as Materialize, MDL and Bootstrap. And then, we developed the associate coding for our project.  Our converter’s coding and design were merged into a good converter link. We uploaded it on the website.
@@ -78,7 +78,7 @@ List of Tables
 Converter link =>	https://geo-gold-converter.herokuapp.com
 
 
-						ACKNOWLWDGEMENT
+# 			ACKNOWLWDGEMENT
 
 We would like to acknowledge and thank all of my teachers that have assisted our project at University of Computer Studies (Mandalay). This project could not have been completed without their assistance.
 	First, we would like to express my heartfelt thanks to U Kyaw Zwa Soe, Rector of the at University of Computer Studies (Mandalay) for him guidance and for him permission to submit our project.
@@ -89,17 +89,18 @@ Then also thanks to U Ravi Chhabra, CEO of Geo Mandalar Co,..ltd for his trust t
 	Finally, we would like to express our gratitude to all people who helped us to achieve this project.
 
 
-					DECLARATION
+# 					DECLARATION
 
 We declare that this project report or part of it was not a copy of a document done by any organization, university any other institute or a previous student project group at University of Computer Studies (Mandalay) and was not copied from the Internet or other sources. We understand that Plagiarism is an academic offence and if we found that to have committed or abetted the offence of plagiarism in relation to this submitted work, disciplinary action will be enforced.
 
 **Project Details**
 Project Title	 Myanmar Language Tools
-Project ID	Geo Mandalar internship program
+Project ID		Geo Mandalar internship program
 
 
-					CHAPTER 1
-					INTRODUCTION
+# 					CHAPTER 1
+
+# 					INTRODUCTION
 
 1.1	Introduction
 
@@ -176,14 +177,13 @@ JavaScript is a client-side scripting language, which means the source code is p
 •	To see clearly fonts
 
 
-					CHAPTER  2
+# 					CHAPTER  2
 
-					METHDOLOGY
+# 					METHDOLOGY
 
 2.1	Requirement Analysis
 	
 	Software Requirements
-
 •	Install Python version 3.0 or 3.1
 
 •	Install Pycharm community edition 2018
@@ -207,7 +207,7 @@ JavaScript is a client-side scripting language, which means the source code is p
 
 Hardware Requirement
 
-•	At least 4.0 of Android OS version Devices (Android phones or tablets)
+•	 At least 4.0 of Android OS version Devices (Android phones or tablets)
 
 •	Internet Access
 
@@ -239,10 +239,11 @@ Hardware Requirement
 In understanding the system requirements and testing some features, we work together. Developer, UI/UX, testing and documentation, we work together. In this system, how to use converter for user and to solve the difficulties of any devices users, especially for android users who have not fonts with their device
 
 
-					CHAPTER 3
-					CONCLUSION
+# 					CHAPTER 3
 
-3.1	Conclusion
+# 					CONCLUSION
+
+3.1 	Conclusion
 
 	The system provides simple and complete functions for user without necessarily changes. Beyond our purpose, you can choose the fonts that would you like to change. One touch of our fingers on click the convert button which show the font do our desire’s view. This converter helps both Zawgyi font users and Unicode font users. 
 	The converter can convert target fonts easily whenever the user found difficulties within Myanmar fonts. Today, Unicode is the most widely used in Myanmar so other fonts users should use this converter. The users who know converter’s link, they can use it everywhere, every time which you want. 
@@ -303,5 +304,7 @@ UDHR-ZG.TXT
 UDHR-UNI.TXT
 
 UDHR-WIN.TXT
+
+
 
 
